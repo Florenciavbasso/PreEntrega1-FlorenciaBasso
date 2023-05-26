@@ -9,6 +9,11 @@
 
 .navbar-h2{
     font-style: italic;
+    margin-left: 20px;
+}
+
+.cartwidget{
+    margin-right: 20px;
 }
 
 .links{

@@ -14,7 +14,7 @@ const NavBar = () => {
                 <Link className="links" to="/Accesorios">Accesorios</Link>
             </div>
 
-            <CartWidget width="20px" height="20px" />
+            <CartWidget className="cartwidget" width="20px" height="20px" />
         </nav>
     )
 }
